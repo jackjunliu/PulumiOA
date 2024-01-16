@@ -1,0 +1,6 @@
+name: pulumiOA
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: a static website on AWS using kubernetes cluster and a dockerfile
